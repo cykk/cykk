@@ -1,0 +1,2 @@
+| **GoHosted.app** | Securely host, embed, and track files (PDF/HTML) on any site without worrying about S3 configuration or expiring URLs. 
+| Global CDN Caching, Signed URLs, and Lightweight Viewers. | **[GoHosted.app](https://gohosted.app/)** |
