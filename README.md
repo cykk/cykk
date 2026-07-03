@@ -20,5 +20,14 @@ If you have podcast episodes, voice memos, or lecture recordings, you can conver
 ✨ **Try the live web app:** [**Launch MP3ToText.ai**](https://mp3totext.ai/)
 
 
+## SocialTranscript - AI-Powered Video & Audio Transcription
 
+A modern, high-performance micro-SaaS designed to transform social media videos and audio recordings into highly accurate transcripts. Engineered for content creators and developers seeking speed and flawless multi-language text processing.
+
+* **Core Technical Highlights:**
+  * Optimized AI media processing pipeline for zero-latency transcription.
+  * Fully integrated with advanced multi-language translation and subtitle export.
+  * Seamless Docker & Traefik orchestration for robust, scalable production deployment.
+
+✨ **Try the live web app:** [Launch SocialTranscript.io](https://socialtranscript.io/)
 
