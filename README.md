@@ -17,7 +17,7 @@ If you have podcast episodes, voice memos, or lecture recordings, you can conver
 * Accurate speaker tracking and downloadable transcript exports (.txt, .srt).
 * Optimized cold-start and audio processing pipelines for multi-language transcription.
 
-✨ **Try the live web app:** [**Launch MP3ToText.ai**](https://mp3totext.io/)
+✨ **Try the live web app:** [**Launch MP3ToText.io**](https://mp3totext.io/)
 
 
 
